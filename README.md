@@ -1,36 +1,135 @@
 <h1 align="center">Hi 👋, I'm Satish Preetham Vangalapudi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=satishpreethamvangalapudi29&label=Profile%20views&color=0e75b6&style=flat" alt="satishpreethamvangalapudi29" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=satishpreethamvangalapudi29" alt="satishpreethamvangalapudi29" /></a> </p>
-
-- 🔭 I’m currently working on [AINOSIS Al-Powered Intelligent Healthcare Ecosystem](https://github.com/Satishpreethamvangalapudi29/Alnosis)
-
-- 🌱 I’m currently learning **Quantum computing,programming,web development,AI,ML**
-
-- 👯 I’m looking to collaborate on **cloud projects**
-
-- 👨‍💻 All of my projects are available at [https://satishpreethamvangalapudi29.github.io/Portfolio/](https://satishpreethamvangalapudi29.github.io/Portfolio/)
-
-- 💬 Ask me about **ML,AI,react**
-
-- 📫 How to reach me **preethamvangalapudi123@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1erJpDnjcqjuhe7PkvREcg5YEy30XhYIv/view?usp=drive_link](https://drive.google.com/file/d/1erJpDnjcqjuhe7PkvREcg5YEy30XhYIv/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/satish preetham vangalapudi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satish preetham vangalapudi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/satishpreetham_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="satishpreetham_v" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@23a31a42j3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@23a31a42j3" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Impactful+Projects" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=satishpreethamvangalapudi29&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satishpreethamvangalapudi29&show_icons=true&locale=en&layout=compact" alt="satishpreethamvangalapudi29" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satishpreethamvangalapudi29&show_icons=true&locale=en" alt="satishpreethamvangalapudi29" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satishpreethamvangalapudi29&" alt="satishpreethamvangalapudi29" /></p>
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+- 🔭 Working on **AINOSIS – AI-Powered Healthcare Ecosystem**
+- 🌱 Learning **Quantum Computing, AI/ML, Full Stack**
+- 👯 Open to collaborate on **Cloud & AI Projects**
+- 💬 Ask me about **React, ML, Full Stack**
+- 📫 Email: **satishpreethamvangalapudi@gmail.com**
+
+📄 **Resume:**  
+👉 https://drive.google.com/file/d/1erJpDnjcqjuhe7PkvREcg5YEy30XhYIv/view  
+
+🌐 **Portfolio:**  
+👉 https://satishpreethamvangalapudi29.github.io/Portfolio/
+
+---
+
+## 🚀 Projects
+
+🔹 **TaskFlow – To-Do List App**  
+- React + Node + Express + MongoDB  
+- CRUD, filters, search, REST APIs  
+
+🔹 **LambdaMART Ranking Model**  
+- LightGBM + NDCG optimization  
+- Improved ranking vs BM25  
+
+🔹 **AINOSIS – AI Healthcare System**  
+- AI-powered ecosystem for rural healthcare  
+
+---
+
+## 💼 Internships
+
+- 🏢 IBM SkillsBuild Internship  
+- 🤖 Google AIML Virtual Internship  
+- 🌐 MEAN Stack Internship  
+- 💻 Full Stack Developer Internship  
+
+---
+
+## 🛠️ Skills
+
+### 💻 Programming
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,js" />
+</p>
+
+### 🌐 Web Development
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### ⚙️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,postman" />
+</p>
+
+### 🧪 Testing
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40"/>
+</p>
+
+### 📊 Data Visualization
+<p>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/plotly.svg" width="40"/>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=satishpreethamvangalapudi29&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satishpreethamvangalapudi29&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishpreethamvangalapudi29&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satishpreethamvangalapudi29&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/satish-preetham-vangalapudi-36a52b351">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/SatishPreetham_V/">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="40"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/23A31A42J3">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackerrank.svg" height="40"/>
+</a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+🚀 I build **AI + Full Stack solutions** that solve real-world problems  
+💡 Always learning, always building
